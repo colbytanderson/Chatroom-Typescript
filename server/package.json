@@ -1,0 +1,30 @@
+{
+  "name": "socketio-react-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sb-js/socketio-react-chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sb-js/socketio-react-chat/issues"
+  },
+  "homepage": "https://github.com/sb-js/socketio-react-chat#readme",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "openid-client": "^2.1.0",
+    "shortid": "^2.2.11",
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.116",
+    "@types/node": "^10.3.5",
+    "@types/shortid": "0.0.29",
+    "@types/socket.io": "^1.4.36",
+    "typescript": "^2.9.2"
+  }
+}

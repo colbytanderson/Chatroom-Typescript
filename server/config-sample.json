@@ -1,0 +1,8 @@
+{
+  "oauth": {
+    "clientId": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com",
+    "clientSecret": "xxxxxxxxxxxxxxxxxxxxxxxx",
+    "callback": "http://localhost:8080/oauth2callback"
+  },
+  "port": 8081
+}
