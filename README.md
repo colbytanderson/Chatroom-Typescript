@@ -1,4 +1,4 @@
-# Chatroom using modern libraries
+# Chatroom
 
 This project was bootstrapped with [create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript).
 
